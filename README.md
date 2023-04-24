@@ -30,3 +30,4 @@ You can see my GitHub Profile at https://github.com/zelada5574.
 
 You can reach me at my email: jarram999@gmail.com
 https://github.com/zelada5574/Note-taker
+https://zelada5574.github.io/Note-taker/
